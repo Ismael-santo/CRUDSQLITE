@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_codigo" type="id" />
+    <item name="tv_descripcion" type="id" />
+    <item name="tv_precio" type="id" />
+    <item name="linearLayout" type="id" />
+    <item name="tvInformld" type="id" />
+    <item name="tvUserName" type="id" />
+    <item name="tv_codigo1" type="id" />
+    <item name="tvUserName1" type="id" />
+    <item name="tv_descripcion1" type="id" />
+    <item name="tv_fecha" type="id" />
+    <item name="tv_precio1" type="id" />
+    <item name="tvUserName2" type="id" />
+    <item name="btnEditInform" type="id" />
+    <item name="btnGoToReports" type="id" />
+</resources>
